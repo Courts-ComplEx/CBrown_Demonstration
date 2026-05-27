@@ -1,7 +1,7 @@
 Courtney Brown Demonstration
 Outline of the typical work performed by Courtney Elizabeth Brown for biochemical molecular modelling in the ComplEx Drug Discovery Lab
 
-# Project Title: Analysing compound libraries for biomedial research 
+Analysing compound libraries for biomedial research 
 
 During computer-assisted drug discovery (CADD) pipelines, novel compound libraries are analysed for therapeutic potential - often based on target binding and activation / inhibition. Two notebooks are included in this repository to show the first and last stage of a pipeline, aiming to find the best candidate - lead compound - that can be taking into the laboratory for experimental validation. 
 
